@@ -1,5 +1,11 @@
 Projeto JOGO DA VELHA EM PYTHON
 
+Integrantes:
+
+Mateus Gomes Vieira de Andrade (RGM: 39094570)
+Gabriel Delano Lima Gomes Monteiro (RGM: 37766988)
+Fellipe Abrantes Soares (RGM: 38208938)
+
 1. Resumo do Jogo:
 O código consiste no clássico jogo da velha, utilizando como linguagem, o Python. Dois jogadores disputam preenchendo um tabuleiro 3x3 com 'X' ou 'O' um de cada vez. O jogo termina quando um jogador completa uma linha, coluna ou diagonal com seus símbolos (Três consecutivos), ou quando todos os espaços do tabuleiro são preenchidos sem nenhum vencedor.
 
